@@ -1,46 +1,43 @@
-# QA Database Testing Project 2
+# QA API Testing Project
 
 ## Overview
 
-This project demonstrates database testing skills using a PostgreSQL sample database.
+This project demonstrates API testing skills using Postman.
 
-The objective was to plan, execute and document database testing activities commonly performed by a Junior QA Tester.
+The objective was to create, execute and document API tests commonly performed by a Junior QA Tester.
 
-## Database Under Test
+## Application Under Test
 
-Database: PostgreSQL DVD Rental Sample Database
+REST API
 
 ## Testing Activities
 
-- Database Testing
-- SQL Query Validation
-- Data Verification
-- Test Case Design
-- Test Execution
-- Defect Reporting
-- Test Summary Reporting
+- API Test Case Design
+- API Request Testing
+- Response Validation
+- Status Code Verification
+- JSON Response Validation
+- API Test Execution
 
 ## Project Deliverables
 
-- Test Plan
-- SQL Queries
-- Test Cases
+- API Test Cases
+- Postman Collection
 - Test Execution Results
 - Bug Reports
 - Test Summary Report
 
 ## Tools Used
 
-- PostgreSQL
-- pgAdmin
+- Postman
 - GitHub
 - Google Sheets / Excel
 
 ## Skills Demonstrated
 
-- Database Testing
-- SQL
-- Data Validation
-- Data Integrity Testing
-- Defect Reporting
+- API Testing
+- REST API Testing
+- HTTP Methods
+- JSON Validation
+- Response Verification
 - Test Documentation
